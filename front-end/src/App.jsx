@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Footer from './components/Footer';
-import Donations from './pages/Donations';
+// import Donations from './pages/Donations';
 import Navbar from './components/Navbar';
 import Accomplishments from './components/WhoAreWe';
 import Carousel from './components/LandingPage';
